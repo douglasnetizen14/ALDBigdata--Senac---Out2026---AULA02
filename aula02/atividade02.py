@@ -1,0 +1,6 @@
+nome = input('qual e o seu nome:   ')
+bairro = input('qual e o bairro   ')
+cep =input('qual e o cep:   ')
+print ('nome',nome )
+print ('bairro',bairro)
+print ('cep',cep)
